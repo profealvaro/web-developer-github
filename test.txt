@@ -1,3 +1,3 @@
-This is my first commit. A commit is a code snapshot.
+This is again a commit. A commit is a code snapshot.
 
 And here we go with commit # 2 !
